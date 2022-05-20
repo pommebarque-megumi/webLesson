@@ -1,0 +1,22 @@
+header{
+		background-size:cover;
+		background:url(../images/color_unique.jpg);
+		height:400px;
+	}
+header h1{
+		font-size:3.5vw;
+		color:#666;
+		line-height:400px;
+		padding:0 auto;
+		text-align:center;
+	}
+nav ul{
+		display:flex;
+		flex-direction:low;
+		justify-content:space-around;
+		background:#c8c8c8;
+	}
+nav ul li a{
+		text-decoration:none;
+	}
+*{box-sizing:border-box;}
