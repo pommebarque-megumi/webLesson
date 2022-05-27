@@ -1,10 +1,10 @@
 header{
 		background-size:cover;
-		background:url(../images/color_unique.jpg);
+		background:url(../images/color_cool.jpg);
 		height:400px;
 	}
 header h1{
-		font-size:3.5vw;
+		font-size:5vw;
 		color:#666;
 		line-height:400px;
 		padding:0 auto;
@@ -20,130 +20,138 @@ nav ul li a{
 		text-decoration:none;
 	}
 *{box-sizing:border-box;}
-#colorCircle{
-		display:flex;
-	}
 h2{
-		font-size:3.5vw;
-		padding-top:10px;
-		color:#666;
-		text-align:center;
+	font-size:3.5vw;
+	color:#666;
+	padding-top:10px;
+	text-align:center;
 	}
-#colorCircle .mode1{
+#colorCircleMono{
+		display:flex;
+		justify-content:center;
+	}
+#colorCircleMN{
+		display:flex;
+		justify-content:center;
+	}
+#colorCircleG{
+		display:flex;
+		justify-content:center;
+	}
+#boxMono-1{
 		width:100px;
 		height:100px;
-		background:#ff005c;
+		background:#323232;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .mode2{
+#boxMono-2{
 		width:100px;
 		height:100px;
-		background:#505050;
+		background:#927f81;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .mode3{
+#boxMono-3{
 		width:100px;
 		height:100px;
-		background:#009a80;
+		background:#c8c8c8;
+		border-radius:50%;
+		text-align:center;
+		line-height:100px;
+		margin:10px;
+		color:#646464;
+		}
+#boxMono-4{
+		width:100px;
+		height:100px;
+		background:#646464;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .mode4{
+#boxMN-1{
 		width:100px;
 		height:100px;
-		background:#969696;
+		background:#5a03dd;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .marine1{
+#boxMN-2{
 		width:100px;
 		height:100px;
-		background:#fff;
-		border-radius:50%;
-		border:0.2px solid #666;
-		text-align:center;
-		line-height:100px;
-		margin:10px;
-		color:#666;
-		}
-#colorCircle .marine2{
-		width:100px;
-		height:100px;
-		background:#0026ff;
+		background:#171564;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .marine3{
+#boxMN-3{
 		width:100px;
 		height:100px;
-		background:#ffd900;
+		background:#48524b;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .marine4{
+#boxMN-4{
 		width:100px;
 		height:100px;
-		background:#8aedff;
+		background:#12406b;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .pank1{
+#boxG-1{
 		width:100px;
 		height:100px;
-		background:#00ee38;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px;
-		color:#666;
-		}
-#colorCircle .pank2{
-		width:100px;
-		height:100px;
-		background:#d4000f;
+		background:#bf9a37;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .pank3{
+#boxG-2{
 		width:100px;
 		height:100px;
-		background:#0a0909;
+		background:#27210f;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .pank4{
+#boxG-3{
 		width:100px;
 		height:100px;
-		background:#f60cff;
+		background:#ffc936;
+		border-radius:50%;
+		text-align:center;
+		line-height:100px;
+		margin:10px;
+		color:#fff;
+		}
+#boxG-4{
+		width:100px;
+		height:100px;
+		background:#0f0b00;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;

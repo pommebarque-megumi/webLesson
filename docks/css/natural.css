@@ -1,6 +1,6 @@
 header{
 		background-size:cover;
-		background:url(../images/color_unique.jpg);
+		background:url(../images/color_natural.jpg);
 		height:400px;
 	}
 header h1{
@@ -29,121 +29,121 @@ h2{
 		color:#666;
 		text-align:center;
 	}
-#colorCircle .mode1{
+#colorCircle .leaf1{
 		width:100px;
 		height:100px;
-		background:#ff005c;
+		background:#75522a;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .mode2{
+#colorCircle .leaf2{
 		width:100px;
 		height:100px;
-		background:#505050;
+		background:#c7db96;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .mode3{
+#colorCircle .leaf3{
 		width:100px;
 		height:100px;
-		background:#009a80;
+		background:#c7b996;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#444;
 		}
-#colorCircle .mode4{
-		width:100px;
-		height:100px;
-		background:#969696;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px;
-		color:#fff;
-		}
-#colorCircle .marine1{
+#colorCircle .leaf4{
 		width:100px;
 		height:100px;
 		background:#fff;
 		border-radius:50%;
-		border:0.2px solid #666;
+		border:0.2px solid #444;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#666;
+		color:#444;
 		}
-#colorCircle .marine2{
+#colorCircle .sunforest1{
 		width:100px;
 		height:100px;
-		background:#0026ff;
+		background:#552716;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .marine3{
+#colorCircle .sunforest2{
 		width:100px;
 		height:100px;
-		background:#ffd900;
+		background:#83be91;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .marine4{
+#colorCircle .sunforest3{
 		width:100px;
 		height:100px;
-		background:#8aedff;
+		background:#e5f0e8;
+		border-radius:50%;
+		text-align:center;
+		line-height:100px;
+		margin:10px;
+		color:#444;
+		}
+#colorCircle .sunforest4{
+		width:100px;
+		height:100px;
+		background:#ffc974;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .pank1{
+#colorCircle .north1{
 		width:100px;
 		height:100px;
-		background:#00ee38;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px;
-		color:#666;
-		}
-#colorCircle .pank2{
-		width:100px;
-		height:100px;
-		background:#d4000f;
+		background:#a3dde8;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .pank3{
+#colorCircle .north2{
 		width:100px;
 		height:100px;
-		background:#0a0909;
+		background:#9dd949;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
 		color:#fff;
 		}
-#colorCircle .pank4{
+#colorCircle .north3{
 		width:100px;
 		height:100px;
-		background:#f60cff;
+		background:#ffa03c;
+		border-radius:50%;
+		text-align:center;
+		line-height:100px;
+		margin:10px;
+		color:#fff;
+		}
+#colorCircle .north4{
+		width:100px;
+		height:100px;
+		background:#71788b;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;

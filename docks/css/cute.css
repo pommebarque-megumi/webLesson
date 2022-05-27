@@ -1,10 +1,10 @@
 header{
 		background-size:cover;
-		background:url(../images/color_unique.jpg);
+		background:url(../images/color_cute.jpg);
 		height:400px;
 	}
 header h1{
-		font-size:3.5vw;
+		font-size:5vw;
 		color:#666;
 		line-height:400px;
 		padding:0 auto;
@@ -20,135 +20,143 @@ nav ul li a{
 		text-decoration:none;
 	}
 *{box-sizing:border-box;}
-#colorCircle{
-		display:flex;
-	}
 h2{
-		font-size:3.5vw;
-		padding-top:10px;
-		color:#666;
-		text-align:center;
+	font-size:3.5vw;
+	color:#666;
+	padding-top:10px;
+	text-align:center;
 	}
-#colorCircle .mode1{
+#colorCircleP{
+		display:flex;
+		justify-content:center;
+	}
+#colorCircleF{
+		display:flex;
+		justify-content:center;
+	}
+#colorCircleSB{
+		display:flex;
+		justify-content:center;
+	}
+#boxP-1{
 		width:100px;
 		height:100px;
-		background:#ff005c;
+		background:#ffc0cb;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .mode2{
+#boxP-2{
 		width:100px;
 		height:100px;
-		background:#505050;
+		background:#c5ee8f;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .mode3{
+#boxP-3{
 		width:100px;
 		height:100px;
-		background:#009a80;
+		background:#fffac5;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .mode4{
+#boxP-4{
 		width:100px;
 		height:100px;
-		background:#969696;
+		background:#ffc974;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .marine1{
+#boxF-1{
 		width:100px;
 		height:100px;
-		background:#fff;
+		background:#6e54b7;
 		border-radius:50%;
-		border:0.2px solid #666;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#666;
+		color:#654032;
 		}
-#colorCircle .marine2{
+#boxF-2{
 		width:100px;
 		height:100px;
-		background:#0026ff;
+		background:#adafbc;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .marine3{
+#boxF-3{
 		width:100px;
 		height:100px;
-		background:#ffd900;
+		background:#f68fba;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .marine4{
+#boxF-4{
 		width:100px;
 		height:100px;
-		background:#8aedff;
+		background:#eedde7;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .pank1{
+#boxSB-1{
 		width:100px;
 		height:100px;
-		background:#00ee38;
+		background:#c19cff;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#666;
+		color:#654032;
 		}
-#colorCircle .pank2{
+#boxSB-2{
 		width:100px;
 		height:100px;
-		background:#d4000f;
+		background:#8fcfe9;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .pank3{
+#boxSB-3{
 		width:100px;
 		height:100px;
-		background:#0a0909;
+		background:#c8c8c8;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
-#colorCircle .pank4{
+#boxSB-4{
 		width:100px;
 		height:100px;
-		background:#f60cff;
+		background:#87aaff;
 		border-radius:50%;
 		text-align:center;
 		line-height:100px;
 		margin:10px;
-		color:#fff;
+		color:#654032;
 		}
 footer{
 		background:#c8c8c8;
